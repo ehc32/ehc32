@@ -1,32 +1,28 @@
-# ¡Hola! 👋 Soy @ehc32
+<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=¡Hola!+Soy+%40ehc32;Desarrollador+apasionado;Estudiante+de+nuevas+tecnologías)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=A+passionate+frontend+developer+from+India)
 
-¡Bienvenido/a a mi rincón en GitHub! Soy [Tu Nombre], un entusiasta [especialización o área de interés]. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- Agrega tus enlaces de redes sociales aquí -->
+</p>
 
-## Sobre mí
+<h3 align="left">About Me</h3>
 
-- 🔭 Actualmente, me encuentro inmerso/a en emocionantes [proyectos actuales] que desafían mi creatividad y habilidades.
-- 🌱 Continuamente estoy aprendiendo y explorando [tecnologías o habilidades específicas] para mejorar mi conjunto de habilidades.
-- 💼 Estoy buscando activamente oportunidades de colaboración en [tipos de proyectos o áreas específicas] donde pueda aportar mi experiencia.
+- 🔭 Actualmente, me encuentro inmerso en emocionantes proyectos frontend que desafían mi creatividad y habilidades.
+- 🌱 Continuamente estoy aprendiendo y explorando nuevas tecnologías para mejorar mi conjunto de habilidades.
+- 💼 Estoy abierto/a a oportunidades de colaboración y siempre estoy buscando formas de contribuir al mundo del desarrollo web.
 - 📫 Si deseas contactarme, puedes hacerlo a través de mi correo electrónico: [tu@email.com](mailto:tu@email.com) o visitar mi perfil en [LinkedIn](tu enlace de LinkedIn).
 
-## Proyectos Destacados
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <!-- Puedes agregar más íconos de herramientas y lenguajes aquí -->
+</p>
 
-1. [**ProyectoEmosira**](https://github.com/ehc32/Proyectos-Sena.git): Una breve descripción del proyecto y su impacto.
-
-2. [**Proyecto 2**]: Descripción concisa y enlace al repositorio.
-
-   ...
-
-## Habilidades
-
-- [**Java**](https://www.java.com/): Desarrollo de aplicaciones robustas y escalables.
-- [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML): Creación de contenido web estructurado.
-
-   ...
-
-## Contacto
+<h3 align="left">Contacto</h3>
 
 ¡Estoy emocionado/a por nuevas oportunidades y colaboraciones! Puedes encontrarme en:
 
@@ -34,9 +30,9 @@
 - 🔗 LinkedIn: [Tu Nombre en LinkedIn](tu enlace de LinkedIn)
 - 🐦 Twitter: [@tu_usuario_de_twitter]
 
-## Estadísticas de GitHub
+<h3 align="left">Estadísticas de GitHub</h3>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ehc32&show_icons=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true)
 
 ¡Agradezco tu visita a mi perfil y estoy ansioso/a por conectarnos y explorar nuevas posibilidades juntos!
 
