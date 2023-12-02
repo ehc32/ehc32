@@ -21,8 +21,8 @@
 
 ## Habilidades
 
-- [**Habilidad 1**]: Detalles sobre tu primera habilidad destacada.
-- [**Habilidad 2**]: Información sobre tu segunda habilidad distintiva.
+- [**Java**](https://www.java.com/): Desarrollo de aplicaciones robustas y escalables.
+- [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML): Creación de contenido web estructurado.
 
    ...
 
@@ -39,17 +39,4 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ehc32&show_icons=true&count_private=true)
 
 ¡Agradezco tu visita a mi perfil y estoy ansioso/a por conectarnos y explorar nuevas posibilidades juntos!
-
-name: Licenses with open-source ratio graphs
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.licenses.ratio.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  template: repository
-  repo: metrics
-  plugin_licenses: yes
-  plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-  plugin_licenses_legal: no
-  plugin_licenses_ratio: yes
 
