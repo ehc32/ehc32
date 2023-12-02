@@ -11,7 +11,7 @@ Bienvenido/a a mi perfil de GitHub. Soy [Tu Nombre], un apasionado/a de [tus int
 
 ## Proyectos Destacados
 
-- [ProyectoEmosira]: (https://github.com/ehc32/Proyectos-Sena.git)
+- [ProyectoEmosira](https://github.com/ehc32/Proyectos-Sena.git)
 - [Proyecto 2]: Breve descripción y enlace al repositorio.
 - ...
 
