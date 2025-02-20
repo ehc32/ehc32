@@ -23,12 +23,27 @@ Busco oportunidades como desarrollador **full-stack** para contribuir con soluci
 ---
 
 ### 🛠 **Habilidades Técnicas**  
-| **Frontend**       | **Backend** | **Mobile**         | **Herramientas**       |
-|---------------------|-------------|--------------------|------------------------|
-| Angular             | C#          | Android Studio     | Git/GitHub            |
-| Tailwind CSS        | Java        | Kotlin             | Bootstrap             |
-| JavaScript          |             |                    | Astro                 |
-| HTML/CSS            |             |                    |                       |
+
+#### **Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### **Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### **Mobile**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### **Herramientas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white)
 
 ---
 
